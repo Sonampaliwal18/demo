@@ -1,2 +1,3 @@
 # demo
-this is my first repository of devops.It contain information
+this is my first repository of devops.It contains information
+Author name-Sonam Paliwal
